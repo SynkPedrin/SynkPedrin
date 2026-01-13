@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack | Engenharia de Software | Análise de Dados & Power BI**
 
-Sou Desenvolvedor Full Stack com **3+ anos de experiência**, atuando no desenvolvimento de aplicações web modernas, sistemas administrativos e soluções orientadas a dados. Trabalho de ponta a ponta no ciclo de desenvolvimento — desde a definição de requisitos, arquitetura e implementação, até a entrega em produção e análise de métricas.
+Sou Desenvolvedor Full Stack, atuando no desenvolvimento de aplicações web modernas, sistemas administrativos e soluções orientadas a dados. Trabalho de ponta a ponta no ciclo de desenvolvimento — desde a definição de requisitos, arquitetura e implementação, até a entrega em produção e análise de métricas.
 
 Tenho forte atuação em **Front-end, Back-end e Dados**, unindo engenharia de software com **análise de dados e visualização estratégica**. Meu foco é entregar soluções que não apenas funcionam, mas **geram insights e apoiam decisões de negócio**.
 
@@ -48,15 +48,17 @@ Tenho forte atuação em **Front-end, Back-end e Dados**, unindo engenharia de s
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SynkPedrin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynkPedrin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SynkPedrin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynkPedrin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 ## 🔥 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SynkPedrin&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SynkPedrin&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 </p>
+
+---
 
 ---
 
