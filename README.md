@@ -45,13 +45,6 @@ Tenho forte atuação em **Front-end, Back-end e Dados**, unindo engenharia de s
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SynkPedrin&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynkPedrin&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
 ## 🔥 Atividade no GitHub
 
 <p align="center">
