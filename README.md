@@ -1,62 +1,192 @@
-# 👨‍💻 Pedro Gabriel Venegeroles
+# 👋 Hi, I'm Pedro Gabriel
 
-**Desenvolvedor Full Stack | Engenharia de Software | Análise de Dados & Power BI**
+<div align="center">
 
-Sou Desenvolvedor Full Stack, atuando no desenvolvimento de aplicações web modernas, sistemas administrativos e soluções orientadas a dados. Trabalho de ponta a ponta no ciclo de desenvolvimento — desde a definição de requisitos, arquitetura e implementação, até a entrega em produção e análise de métricas.
+### Software Engineer • AI Automation • Full Stack Developer
 
-Tenho forte atuação em **Front-end, Back-end e Dados**, unindo engenharia de software com **análise de dados e visualização estratégica**. Meu foco é entregar soluções que não apenas funcionam, mas **geram insights e apoiam decisões de negócio**.
+Building intelligent software, AI-powered SaaS platforms, CRM systems and business automations.
 
-📍 Brasil  
-💼 Full Stack Developer  
-🔗 [LinkedIn](https://www.linkedin.com/in/pedrogabrielvenegeroles)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedrogabrielvenegeroles)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SynkPedrin)
 
----
-
-## 🧠 Resumo Profissional
-
-- Experiência sólida em **JavaScript, TypeScript, React, Next.js e Node.js**.
-- Desenvolvimento de **aplicações web, sistemas administrativos e dashboards analíticos**.
-- Criação e consumo de **APIs REST** e modelagem de **bancos de dados SQL**.
-- Criação de **dashboards e KPIs no Power BI** para apoio à tomada de decisão.
-- Foco em **código limpo, escalabilidade** e metodologias ágeis (**Scrum / Kanban**).
+</div>
 
 ---
 
-## 🚀 Stack Tecnológico
+## 🚀 About Me
 
-### 🎨 Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+I'm a **Software Engineer** passionate about creating scalable software, AI-powered products and automation platforms.
 
-### 🧠 Back-end & Dados
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+Currently, I'm focused on developing **ORVYN OS**, an intelligent CRM platform that combines Artificial Intelligence, workflow automation and modern software engineering to optimize business operations.
 
-### 📊 Análise de Dados & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+My expertise spans the complete software development lifecycle—from architecture and UI/UX implementation to backend development, API integrations, automation workflows and cloud deployment.
 
 ---
 
-## 🔥 Atividade no GitHub
+## 💼 What I Do
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SynkPedrin&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+- 🤖 AI Automation & AI Agents
+- 💻 Full Stack Development
+- ⚡ Workflow Automation
+- 🏗 Software Architecture
+- 🌐 REST API Development
+- 📊 Dashboard & Analytics
+- ☁ Cloud Deployment
+- 🔄 Process Optimization
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,express" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,vercel,npm" />
 </p>
 
 ---
 
+# 🚀 Featured Projects
+
+## 🟣 ORVYN OS
+
+An AI-powered CRM platform designed to automate business operations using intelligent workflows, AI agents and advanced customer management.
+
+**Main Features**
+
+- AI CRM
+- Workflow Automation
+- Lead Management
+- Dashboards
+- Sales Pipeline
+- Customer Management
+- AI Assistant
+- API Integrations
+
+**Tech**
+
+- Next.js
+- React
+- TypeScript
+- TailwindCSS
+- PostgreSQL
+- REST APIs
+
 ---
 
-## 💬 Vamos conversar?
+## 💰 ORVYN Finance
 
-Se você busca um desenvolvedor que una **Full Stack + Dados + BI** para criar soluções estratégicas, estou aberto a novas conexões.
+Smart financial management platform featuring predictive analytics, expense control, dashboards and financial insights.
 
-📩 **LinkedIn:** [Clique aqui para me conectar](https://www.linkedin.com/in/pedrogabrielvenegeroles)
+**Highlights**
+
+- Financial Dashboard
+- Analytics
+- Reports
+- Expense Management
+- Forecasting
+
+---
+
+## 🎟 ORVYN Events
+
+Modern event management platform developed with responsive design and administrative tools.
+
+---
+
+## 🎨 Art Gallery
+
+Interactive gallery built with React focused on responsive design and user experience.
+
+---
+
+# 📚 Currently Learning
+
+- Artificial Intelligence
+- Multi-Agent Systems
+- AI Engineering
+- Cloud Architecture
+- Software Design Patterns
+- Performance Optimization
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SynkPedrin&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynkPedrin&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SynkPedrin&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SynkPedrin&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🌎 Areas of Interest
+
+- Artificial Intelligence
+- Automation
+- SaaS Development
+- CRM Platforms
+- Software Engineering
+- API Development
+- Business Intelligence
+- Cloud Computing
+- Product Engineering
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pedrogabrielvenegeroles">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💜 Building software that empowers businesses through AI and automation.
+
+*"Great software is not only functional — it creates impact."*
+
+</div>
